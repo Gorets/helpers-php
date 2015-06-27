@@ -1,7 +1,7 @@
 {
 	"name" : "gorets/addons",
 	"type" : "library",
-	"description": "PHP heloers",
+	"description": "PHP helpers",
 	"keywords": ["php", "helpers"],
 	"homepage": "https://github.com/gorets/helpers-php",
 	"license": "BSD",
